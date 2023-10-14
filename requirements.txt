@@ -1,0 +1,5 @@
+pytest
+dragonfly2
+pynput
+pyautogui
+python-docx
